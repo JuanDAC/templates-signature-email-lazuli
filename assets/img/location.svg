@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 5.28 8">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: #101010;
+            }
+        </style>
+    </defs>
+    <title>ubicaaacion</title>
+    <g id="Capa_2" data-name="Capa 2">
+        <g id="Capa_1-2" data-name="Capa 1">
+            <path class="cls-1"
+                d="M2.64,0h0A2.64,2.64,0,0,0,.14,3.48l1.2,3.59a1.37,1.37,0,0,0,2.6,0L5.15,3.48A2.64,2.64,0,0,0,2.64,0Zm0,3.67A1.32,1.32,0,0,1,2.63,1,1.32,1.32,0,0,1,2.63,3.67Z" />
+        </g>
+    </g>
+</svg>

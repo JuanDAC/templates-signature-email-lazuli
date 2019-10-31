@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31" height="31" viewBox="0 0 31 31">
+  <g id="linkendin" transform="translate(-139 -506)">
+    <circle id="Elipse_3" data-name="Elipse 3" cx="15.5" cy="15.5" r="15.5" transform="translate(139 506)" fill="#009cdf"/>
+    <g id="Grupo_10" data-name="Grupo 10" transform="translate(-358.337 214.854)">
+      <rect id="Rectángulo_1" data-name="Rectángulo 1" width="3.652" height="11.355" transform="translate(505.337 302.791)" fill="#fbfbfb"/>
+      <path id="Trazado_19" data-name="Trazado 19" d="M507.263,301.064h.027a1.939,1.939,0,1,0-.027,0Z" fill="#fbfbfb"/>
+      <path id="Trazado_20" data-name="Trazado 20" d="M514.834,307.678a2.447,2.447,0,0,1,.126-.9,2,2,0,0,1,1.872-1.349c1.322,0,1.853,1.016,1.853,2.5v6.209h3.653v-6.634c0-3.407-1.813-4.987-4.211-4.987a3.7,3.7,0,0,0-3.293,1.846v-1.58h-3.653v11.355h3.653Z" fill="#fbfbfb"/>
+    </g>
+  </g>
+</svg>
